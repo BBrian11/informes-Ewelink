@@ -1,8 +1,4 @@
-# front
 
-Open source alternative client for controlling ewelink-compatible devices.
-
-## Stack
 
 ### Frontend
 
@@ -17,4 +13,3 @@ Open source alternative client for controlling ewelink-compatible devices.
 
 ## ⚠️ Under development ⚠️
 
-This application is currently under development
